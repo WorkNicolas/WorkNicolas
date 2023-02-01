@@ -1,4 +1,5 @@
-<center>👋 Hi, I’m @WorkNicolas</center>
+#👋 Hi, I’m @WorkNicolas</center>
+
 - 👀 I’m interested in HTML, CSS, C++, JavaScript, and Java.
 - 🌱 I’m currently learning HTML, CSS, C++, JavaScript, and Java.
 - 💞️ I’m looking to collaborate on HTML, CSS, C++, JavaScript, and Java Projects.
