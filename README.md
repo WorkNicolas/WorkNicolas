@@ -21,15 +21,15 @@ From Quezon City, Philippines.
 
 <h3 align="left">⌨ Languages</h3>
 <p align="left">
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-<img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" />
-<img width="75px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Icon" />
-<img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" />
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" /></a>
+<a href="https://www.java.com/en/"><img width="75px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Icon" /></a>
+<a href="https://www.python.org/"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" /> </a>
 </p>
 
 <h3 align="left">💅 Styles</h3>
 <p align="left">
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+<a href="https://en.wikipedia.org/wiki/CSS"><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" /></a>
 </p>
   
 <h3 align="left">🖥 Frameworks</h3>
