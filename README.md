@@ -10,7 +10,7 @@ From Quezon City, Philippines.
 
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, C++, Java, and Python projects.
 
-- 📫 How to reach me: GMail: workcarlnicolasvmendoza@gmail.com
+- 📫 How to reach me: Carl.Nicolas.V.Mendoza@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
