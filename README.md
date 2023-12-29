@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hi, I’m @WorkNicolas </h1>
-<h3 align="center">Computer Science Student</h3>
-From Quezon City, Philippines.
+<h3 align="center">College Student</h3>
+From Ontario, Canada.
 
-- 👨‍🎓 I'm currently studying Computer Science.
+- 👨‍🎓 I'm currently studying Software Engineering.
 
 - 👀 I’m interested in HTML, CSS, C++, JavaScript, and Java.
 
