@@ -24,7 +24,7 @@ From Ontario, Canada.
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" /></a>
 <a href="https://www.java.com/en/"><img width="75px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Icon" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg)" alt="C Sharp Icon" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C Sharp Icon" /></a>
 
 <a href="https://www.python.org/"><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" /> </a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img width="75px" src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" alt="Oracle SQL Developer Icon" /> </a>
