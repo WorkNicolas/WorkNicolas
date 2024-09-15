@@ -9,13 +9,13 @@
 
 ## Connect with me
   <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link" />
   </a>
   <a href="https://twitter.com/qcnvmendoza/">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link" />
   </a>
   <a href="https://github.com/WorkNicolas">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link" />
   </a>
 <h3 align="left">⌨ Languages</h3>
 <p align="left">
