@@ -6,7 +6,7 @@
 - 📫 GMail: <a href="mailto:carl.nicolas.v.mendoza@gmail.com">Carl.Nicolas.V.Mendoza@gmail.com</a>
 
 ## Connect with me
-<a target="_blank" style="text-decoration: none;" href="https://www.linkedin.com/in/worknicolas/">
+<a href="https://www.linkedin.com/in/worknicolas/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link" />
 </a>
 <a href="https://twitter.com/qcnvmendoza/" style="text-decoration: none;" target="_blank">
