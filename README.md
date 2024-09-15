@@ -10,7 +10,10 @@
 ## Connect with me
 <p>
   <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link/>
+  </a>
+  <a href="https://twitter.com/qcnvmendoza/">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link />
   </a>
 </p>
 </p>
