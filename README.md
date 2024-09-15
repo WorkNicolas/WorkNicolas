@@ -2,10 +2,8 @@
 ## College Student
 **From Ontario, Canada.**
 - 👨‍🎓 I'm currently studying Software Engineering.
-- 👀 I’m interested in HTML, CSS, C++, JavaScript, and Java.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Java, and Python.
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, C++, Java, and Python projects.
-- 📫 How to reach me: Carl.Nicolas.V.Mendoza@gmail.com
+- 👀 I'm looking to collaborate to any projects using the skills that I have.
+- 📫 GMail: <a href="mailto:carl.nicolas.v.mendoza@gmail.com">Carl.Nicolas.V.Mendoza@gmail.com</a>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/">
@@ -17,7 +15,7 @@
 <a href="https://github.com/WorkNicolas">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link" />
 </a>
-<a href="mailto:email@example.com">
+<a href="mailto:carl.nicolas.v.mendoza@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Mail to my GMail" />
 </a>
 
