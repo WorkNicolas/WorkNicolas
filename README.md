@@ -1,18 +1,13 @@
-<h1 align="center"> 👋 Hi, I’m @WorkNicolas </h1>
-<h3 align="center">College Student</h3>
-From Ontario, Canada.
-
+#👋 Hi, I’m @WorkNicolas
+## College Student
+**From Ontario, Canada.**
 - 👨‍🎓 I'm currently studying Software Engineering.
-
 - 👀 I’m interested in HTML, CSS, C++, JavaScript, and Java.
-
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C++, Java, and Python.
-
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, C++, Java, and Python projects.
-
 - 📫 How to reach me: Carl.Nicolas.V.Mendoza@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="mendoza-carl-nicolas-vinluan" width="60" /></a>
 <a href="https://www.facebook.com/carlnicolas.mendoza.5/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="carlnicolas.mendoza.5" width="60" /></a>
@@ -54,6 +49,3 @@ From Ontario, Canada.
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" alt="Windows" /> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" /> </a>
 </p>
-
-## Test
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
