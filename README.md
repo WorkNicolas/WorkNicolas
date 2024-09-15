@@ -6,18 +6,21 @@
 - 📫 GMail: <a href="mailto:carl.nicolas.v.mendoza@gmail.com">Carl.Nicolas.V.Mendoza@gmail.com</a>
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/worknicolas/" >
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link" />
-</a>
-<a href="https://twitter.com/qcnvmendoza/" >
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link" />
-</a>
-<a href="https://github.com/WorkNicolas" >
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link" />
-</a>
-<a href="mailto:carl.nicolas.v.mendoza@gmail.com" >
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Mail to my GMail" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/worknicolas/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link" />
+  </a>
+  <a href="https://twitter.com/qcnvmendoza/" >
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link" />
+  </a>
+  <a href="https://github.com/WorkNicolas" >
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link" />
+  </a>
+  <a href="mailto:carl.nicolas.v.mendoza@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail to my GMail" />
+  </a>
+  
+</p>
 
 ## Skills
 ### ⌨ Languages
