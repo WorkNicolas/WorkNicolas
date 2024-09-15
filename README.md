@@ -54,3 +54,6 @@ From Ontario, Canada.
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" alt="Windows" /> </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" /> </a>
 </p>
+
+## Test
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
