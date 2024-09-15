@@ -15,12 +15,9 @@
   <a href="https://twitter.com/qcnvmendoza/">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Profile Link />
   </a>
-</p>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="mendoza-carl-nicolas-vinluan" width="60" /></a>
-<a href="https://www.facebook.com/carlnicolas.mendoza.5/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="carlnicolas.mendoza.5" width="60" /></a>
-<a href="https://twitter.com/qcnvmendoza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165611-1537dc49-306e-456e-b627-306fec07117e.png" alt="qcnvmendoza" width="60" /></a>
+  <a href="https://github.com/WorkNicolas">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link />
+  </a>
 </p>
 
 <h3 align="left">⌨ Languages</h3>
