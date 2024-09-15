@@ -1,3 +1,9 @@
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
+
 # 👋 Hi, I’m @WorkNicolas
 ## College Student
 **From Ontario, Canada.**
