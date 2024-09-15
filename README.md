@@ -48,3 +48,9 @@ From Ontario, Canada.
 <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="Powershell Icon" /> </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bourne-Again Shell" /> </a>
 </p>
+
+<h3 align="left">💿 Operating System</h3>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" alt="Windows" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" /> </a>
+</p>
