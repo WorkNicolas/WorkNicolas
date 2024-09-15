@@ -1,4 +1,4 @@
-#👋 Hi, I’m @WorkNicolas
+# 👋 Hi, I’m @WorkNicolas
 ## College Student
 **From Ontario, Canada.**
 - 👨‍🎓 I'm currently studying Software Engineering.
@@ -8,6 +8,12 @@
 - 📫 How to reach me: Carl.Nicolas.V.Mendoza@gmail.com
 
 ## Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="mendoza-carl-nicolas-vinluan" width="60" /></a>
 <a href="https://www.facebook.com/carlnicolas.mendoza.5/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="carlnicolas.mendoza.5" width="60" /></a>
