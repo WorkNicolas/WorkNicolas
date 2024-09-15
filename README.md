@@ -8,7 +8,6 @@
 - 📫 How to reach me: Carl.Nicolas.V.Mendoza@gmail.com
 
 ## Connect with me
-<p>
   <a href="https://www.linkedin.com/in/mendoza-carl-nicolas-vinluan-37786223b/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile Link/>
   </a>
@@ -18,8 +17,6 @@
   <a href="https://github.com/WorkNicolas">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile Link />
   </a>
-</p>
-
 <h3 align="left">⌨ Languages</h3>
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /></a>
